@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f9b0f,50:38ef7d,100:11998e&height=250&section=header&text=TUYUBAHE%20Edouard&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">Mobile & Frontend Engineer • MERN Stack • React Native</h2>
+<h2 align="center">Mobile & Full Stack Engineer • MERN Stack • React Native</h2>
 
 <p align="center">
   🌱 Building scalable products &nbsp;•&nbsp; ⚡ Performance-driven UI &nbsp;•&nbsp; 🌍 Real-world impact
