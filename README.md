@@ -88,9 +88,9 @@ Mobile & Full Stack Developer focused on:
 
 ## 📫 Contact
 📧 edouardtuyubahe@gmail.com  
-💻 github.com/Edouard144
-whatsApp : +250 791980789
-Instagram : instagram.com/edo.ua.rd_7/
+💻 github.com/Edouard144    
+whatsApp : +250 791980789      
+Instagram : instagram.com/edo.ua.rd_7/     
 
 ---
 
