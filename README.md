@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=38EF7D&center=true&vCenter=true&width=900&lines=Mobile+Developer;Full+Stack+Developer;React+Native+Engineer;MERN+Stack+Developer;Frontend+Performance+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=38EF7D&center=true&vCenter=true&width=900&lines=Mobile+Developer;Backend+Developer;React+Native+Engineer;MERN+Stack+Developer"/>
 </p>
 
 <h3 align="center">
-🚀 Mobile & Full Stack Developer • React Native • MERN Stack
+🚀 Backend & Mobile Developer 
 </h3>
 
 <p align="center">
