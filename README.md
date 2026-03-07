@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=38EF7D&center=true&vCenter=true&width=900&lines=Mobile+Developer;Backend+Developer;React+Native+Engineer;MERN+Stack+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=38EF7D&center=true&vCenter=true&width=900&lines=Backend+Developer;Mobile+Developer;React+Native+Engineer;MERN+Stack+Developer"/>
 </p>
 
 <h3 align="center">
@@ -38,7 +38,7 @@ Mobile & Full Stack Developer focused on:
 ### Full Stack
 - React.js & Next.js
 - Node.js & Express
-- MongoDB & MySQL
+- Neon Postgres, MongoDB & MySQ
 - REST APIs
 
 ### Algorithms
@@ -79,8 +79,8 @@ Mobile & Full Stack Developer focused on:
 ---
 
 ## 🎯 Current Focus
-- Scaling mobile apps
-- Advanced frontend architecture
+- Backend Development using Node.js & Express.js
+- Advanced Mobile development
 - Backend & system design
 - Production-ready apps
 
@@ -89,6 +89,8 @@ Mobile & Full Stack Developer focused on:
 ## 📫 Contact
 📧 edouardtuyubahe@gmail.com  
 💻 github.com/Edouard144
+whatsApp : +250 791980789
+Instagram : instagram.com/edo.ua.rd_7/
 
 ---
 
