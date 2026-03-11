@@ -122,4 +122,4 @@ LinkedIn
 
 ---
 
-“Building software that solves real problems.”
+“Building software that solves real problems.”   this is my readme on github, i want you to make it more iconic with animations and  motions gold   everywhere and most features making it like a heaven
