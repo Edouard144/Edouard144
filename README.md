@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=051937,004d7a,008793,00bf72&height=200&section=header&text=Edouard%20TUYUBAHE&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=fff&fontStyle=Cinzel" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=051937,004d7a,008793&height=220&section=header&text=Edouard%20TUYUBAHE&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=fff&fontStyle=Cinzel" width="100%"/>
 
 ### ⚜️ *Lead Engineer: Architecting High-Performance Backends & Mobile Visions* ⚜️
 
@@ -26,14 +26,14 @@
   <tr>
     <td width="50%" align="center">
       <br />
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="80" /><br />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="80" /><br />
       <h3>⚡ Backend Sovereignty</h3>
       <p align="left">I engineer <b>resilient server-side architectures</b>. From optimizing complex PostgreSQL queries to designing secure RESTful APIs, I ensure every system is built for extreme scale and financial-grade reliability.</p>
       <img src="https://img.shields.io/badge/Status-Senior_Level-D4AF37?style=flat-square" />
     </td>
     <td width="50%" align="center">
       <br />
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ReactNative-Dark.svg" width="80" /><br />
+      <img src="https://skillicons.dev/icons?i=react" width="80" /><br />
       <h3>📱 Mobile Excellence</h3>
       <p align="left">Crafting <b>premium mobile experiences</b> using React Native and Expo. I focus on high-fidelity UI/UX, offline-first data synchronization, and native performance for cross-platform success.</p>
       <img src="https://img.shields.io/badge/Status-Expert_Dev-D4AF37?style=flat-square" />
@@ -56,10 +56,6 @@
 - **The Mission:** Transitioning manual record-keeping to a bulletproof digital vault.
 - **The System:** Automated loan tracking and ledger management with transaction integrity.
 - **Tech:** `Express.js` • `PostgreSQL` • `Fintech Logic`
-
-### 🍽️ [Restaurant Ordering System](https://github.com/Edouard144) — *Hospitality Engine*
-- **The Focus:** Real-time order management and secure user authentication.
-- **Tech:** `Auth-JWT` • `Database Optimization` • `Production-ready`
 
 ---
 
