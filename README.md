@@ -1,63 +1,85 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=150&section=header&text=EDOUARD%20TUYUBAHE&fontSize=50&fontAlignY=40&animation=twinkling&fontColor=000&fontStyle=Cinzel" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=180&section=header&text=EDOUARD%20TUYUBAHE&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=000&fontStyle=Cinzel" width="100%"/>
 
-### ⚜️ *Architect of Scalable Backends & Mobile Ecosystems* ⚜️
+### ⚜️ *Senior Architect: Backend Sovereignty & Mobile Excellence* ⚜️
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=BACKEND+SYSTEM+ARCHITECT;MOBILE+ENGINEERING+EXPERT;FINTECH+INFRASTRUCTURE;BUILDING+THE+FUTURE+OF+RWANDA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=MASTER+OF+BACKEND+INFRASTRUCTURE;MOBILE+ECOSYSTEM+SPECIALIST;FINTECH+SOLUTIONS+ARCHITECT;TURNING+COMPLEXITY+INTO+GOLD" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Expertise-Backend_Infrastructure-D4AF37?style=for-the-badge&logo=node.js&logoColor=black" />
-  <img src="https://img.shields.io/badge/Expertise-Mobile_Development-000000?style=for-the-badge&logo=react&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/Main_Focus-High_Throughput_Backends-D4AF37?style=for-the-badge&logo=node.js&logoColor=black" />
+  <img src="https://img.shields.io/badge/Expertise-Scalable_Mobile_Apps-000000?style=for-the-badge&logo=react&logoColor=D4AF37" />
 </p>
 
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Edouard144&show_icons=true&theme=luxury&hide_border=true&bg_color=00000000" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edouard144&layout=compact&theme=luxury&hide_border=true&bg_color=00000000" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Edouard144&show_icons=true&theme=luxury&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edouard144&layout=compact&theme=luxury&hide_border=true" width="42%" />
 </p>
 
 ---
 
-## 🔱 THE PILLARS OF MASTERY
+## 🔱 THE PILLARS OF ENGINEERING
 
 <table>
   <tr>
     <td width="50%" align="center">
       <br />
-      <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/100/D4AF37/external-backend-api-flatart-icons-outline-flatarticons.png"/><br />
-      <h3>⚡ Backend & DevOps</h3>
-      <p>I build <b>high-concurrency</b> architectures using Node.js and PostgreSQL, focusing on security, performance, and 99.9% availability.</p>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="60" /><br />
+      <h3>⚡ Backend & Infrastructure</h3>
+      <p align="left">Specialized in building <b>fault-tolerant APIs</b> and microservices. I optimize PostgreSQL schemas and Express.js middleware for maximum concurrency and financial-grade security.</p>
+      <img src="https://img.shields.io/badge/PostgreSQL-Expert-D4AF37?style=flat-square" />
+      <img src="https://img.shields.io/badge/System_Design-Advanced-D4AF37?style=flat-square" />
     </td>
     <td width="50%" align="center">
       <br />
-      <img src="https://img.icons8.com/ios/100/D4AF37/iphone.png"/><br />
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ReactNative-Dark.svg" width="60" /><br />
       <h3>📱 Mobile Engineering</h3>
-      <p>Specialized in <b>React Native</b> and <b>Expo</b> to deliver fluid, native-grade applications for the African market.</p>
+      <p align="left">Crafting <b>fluid user journeys</b> using React Native and Expo. My focus is on offline-first capabilities and native performance for the African digital market.</p>
+      <img src="https://img.shields.io/badge/React_Native-Master-D4AF37?style=flat-square" />
+      <img src="https://img.shields.io/badge/UX_Optimization-Gold-D4AF37?style=flat-square" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🏛️ FEATURED ARTIFACTS
+## 🏛️ FEATURED GOLDEN ARTIFACTS
 
 ### 🏰 [UmurageTrust](https://github.com/Edouard144)
-**The Gold Standard for Real Estate in Rwanda.**
-> Architected a secure, high-traffic marketplace.  
-> `Next.js` • `PostgreSQL` • `Node.js` • `RESTful APIs`
+**The Gateway to Rwandan Real Estate.**
+> **Role:** Lead Architect & Database Designer  
+> **Challenge:** Creating a high-availability platform for property transactions.  
+> **Outcome:** Built a scalable marketplace using Next.js and a highly optimized PostgreSQL backend.  
+> `Node.js` • `PostgreSQL` • `REST API` • `Next.js`
 
 ### 💰 [SmartSacco](https://github.com/Edouard144)
-**Fintech Reliability Digitized.**
-> Building the backbone of financial inclusion with automated ledger systems.  
-> `Express.js` • `System Design` • `Financial Security`
+**Revolutionizing Financial Inclusion.**
+> **Role:** Full Stack Mobile & Backend Engineer  
+> **Challenge:** Transitioning manual financial record-keeping to a secure digital vault.  
+> **Outcome:** A robust digital platform for SACCOs to manage accounts, loans, and automated transactions.  
+> `Express.js` • `Fintech Security` • `Mobile Integration`
+
+### 🍽️ [Restaurant Ordering System](https://github.com/Edouard144)
+**Modern Hospitality Infrastructure.**
+> **Role:** Backend Architect  
+> **Outcome:** An end-to-end ordering engine with real-time tracking and secure auth.  
+> `Auth-JWT` • `Database Optimization` • `Production-Ready`
 
 ---
 
 ## ⚡ RECENT CELESTIAL ACTIVITY
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Edouard144&theme=dracula&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&hide_border=true&bg_color=00000000" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Edouard144&theme=dracula&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&hide_border=true&bg_color=000" width="100%" />
+
+---
+
+## 🛠️ THE GOLDEN TOOLBOX
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,nextjs,postgres,mongodb,mysql,docker,git,tailwind,bootstrap&perline=6" />
+</p>
 
 ---
 
@@ -65,16 +87,14 @@
 
 <div align="center">
 
-<a href="mailto:edouardtuyubahe@gmail.com"><img src="https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-<a href="https://github.com/Edouard144"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D4AF37" /></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Edouard144&color=D4AF37&style=flat-square&label=SOULS+VISITED" />
+| 📬 Reach Out | 🌐 Socials | 🛡️ Status |
+| :--- | :--- | :--- |
+| [edouardtuyubahe@gmail.com](mailto:edouardtuyubahe@gmail.com) | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | <img src="https://komarev.com/ghpvc/?username=Edouard144&color=D4AF37&style=flat-square&label=SOULS+VISITED" /> |
+| [GitHub Profile](https://github.com/Edouard144) | [Personal Portfolio](#) | **Open for Collaborations** |
 
 <br>
 
-**"Software is the alchemy of our age. Let's build something legendary."**
+**"Code is temporary. Great architecture is eternal."**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=100&section=footer" width="100%"/>
 
