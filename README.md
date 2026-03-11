@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=D4AF37&height=200&section=header&text=EDOUARD%20TUYUBAHE&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=fff&fontStyle=Cinzel" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=051937,004d7a,008793,00bf72&height=200&section=header&text=Edouard%20TUYUBAHE&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=fff&fontStyle=Cinzel" width="100%"/>
 
 ### ⚜️ *Lead Engineer: Architecting High-Performance Backends & Mobile Visions* ⚜️
 
