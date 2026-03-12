@@ -14,8 +14,8 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Edouard144&show_icons=true&theme=luxury&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edouard144&layout=compact&theme=luxury&hide_border=true" width="42%" />
+  <img src="i:turn0image31" width="48%" />
+  <img src="i:turn0image41" width="42%" />
 </p>
 
 ---
