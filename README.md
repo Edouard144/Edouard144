@@ -65,6 +65,18 @@
 
 ---
 
+## 📊 Contribution Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Edouard144&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&background=000&border=000&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=Edouard144&theme=dracula&combine_all_yearly_contributions=true&hide_border=true&bg_color=000&title_color=D4AF37&text_color=FFFFFF" alt="Contribution Stats" />
+</p>
+
+---
+
 ## 🛠️ THE GOLDEN TOOLBOX
 
 <p align="center">
