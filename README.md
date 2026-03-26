@@ -1,6 +1,6 @@
 <div align="center">
 
-# Edouard Tuyubahe
+# Edouard TUYUBAHE
 ### Fullstack Developer | Backend & Mobile Systems
 
 Building scalable applications with real-world impact in fintech, real estate, and digital platforms.
@@ -23,10 +23,13 @@ I am a Fullstack Developer from Rwanda focused on building **scalable, productio
 
 **Frontend**
 - React.js, Next.js
+- React Native
+- Swift
 - Tailwind CSS, Bootstrap
 
 **Backend**
 - Node.js, Express.js
+- Springboot
 - REST APIs
 
 **Database**
@@ -45,9 +48,6 @@ Digital platform for managing savings, loans, and member accounts.
 - Authentication & user roles
 - Loan management system
 - Financial tracking dashboard
-
-👉 Live Demo: *Add link*  
-👉 Code: *Add repo link*
 
 ---
 
@@ -91,7 +91,8 @@ Platform connecting property buyers and sellers in Rwanda.
 
 - Email: edouardtuyubahe@gmail.com  
 - GitHub: https://github.com/Edouard144  
-- LinkedIn: *Add your link*
+- Email: edouardtuyubahe@gmail.com
+- Website Portfolio: https://edouard-chv.onrender.com
 
 ---
 
