@@ -91,7 +91,6 @@ Platform connecting property buyers and sellers in Rwanda.
 
 - Email: edouardtuyubahe@gmail.com  
 - GitHub: https://github.com/Edouard144  
-- Email: edouardtuyubahe@gmail.com
 - Website Portfolio: https://edouard-chv.onrender.com
 
 ---
