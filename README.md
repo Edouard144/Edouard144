@@ -1,6 +1,6 @@
 <div align="center">
 
-# Edouard TUYUBAHE
+# TUYUBAHE Edouard 
 ### Fullstack Developer | Backend & Mobile Systems
 
 Building scalable applications with real-world impact in fintech, real estate, and digital platforms.
