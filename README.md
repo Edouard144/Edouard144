@@ -90,7 +90,6 @@ Platform connecting property buyers and sellers in Rwanda.
 ## 📬 Contact
 
 - Email: edouardtuyubahe@gmail.com  
-- GitHub: https://github.com/Edouard144  
 - Website Portfolio: https://edouard-chv.onrender.com
 
 ---
