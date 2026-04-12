@@ -91,7 +91,7 @@ Platform connecting property buyers and sellers in Rwanda.
 
 - Email: edouardtuyubahe@gmail.com  
 - Website Portfolio: https://edouard-chv.onrender.com
-- LinkedIn: https://www.linkedin.com/in/tuyubahe-edouard-54376a34a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- LinkedIn: https://www.linkedin.com/in/tuyubahe-edouard-54376a34a
 
 ---
 
