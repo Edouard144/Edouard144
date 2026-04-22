@@ -13,7 +13,7 @@ Building scalable applications with real-world impact in fintech, real estate, a
 
 I am a Fullstack Developer from Rwanda focused on building **scalable, production-ready applications**.
 
-- Strong in **backend systems (Node.js, Express, PostgreSQL)**
+- Strong in **backend systems (Node.js, Express, Django, PostgreSQL)**
 - Experienced in **frontend & mobile (React, Next.js, React Native)**
 - Passionate about **fintech, system design, and real-world problem solving**
 
@@ -29,11 +29,12 @@ I am a Fullstack Developer from Rwanda focused on building **scalable, productio
 
 **Backend**
 - Node.js, Express.js
+- Django
 - Springboot
 - REST APIs
 
 **Database**
-- PostgreSQL, MongoDB, MySQL
+- PostgreSQL, MongoDB, MySQL, Redis
 
 **Tools**
 - Docker, Git
