@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # TUYUBAHE Edouard 
 ### Fullstack Developer | Backend & Mobile Systems
