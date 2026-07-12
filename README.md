@@ -75,30 +75,6 @@ Outside of coding, I enjoy learning new technologies, contributing to meaningful
 </tr>
 </table>
 
-#  Featured Projects
-
-## 🏦 Smart SACCO System
-
-A digital banking platform that helps SACCOs manage members, savings, loans, repayments, and financial operations.
-
-**Tech:** Node.js • PostgreSQL • React
-
----
-
-## 🏠 UmurageTrust
-
-A modern real estate platform connecting property owners, buyers, landlords, and tenants across Rwanda.
-
-**Tech:** React • Node.js • PostgreSQL
-
----
-
-## 👨‍👩‍👧 Family Management App
-
-A cross-platform mobile application for organizing family activities, events, reminders, and communication.
-
-**Tech:** React Native • Express.js
-
 ---
 
 # Currently Learning
