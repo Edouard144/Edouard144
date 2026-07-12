@@ -114,7 +114,7 @@ Outside of coding, I enjoy learning new technologies, contributing to meaningful
 
 # 🤝 Let's Connect
 
-If you're building something exciting, looking for someone to collaborate with, or simply want to say hello...
+Whether you're building something exciting, looking to collaborate, or just want to connect, I'd love to hear from you.
 
 I'd love to hear from you.
 
