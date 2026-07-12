@@ -14,7 +14,7 @@ Just a Friendly Software Developer Who Loves Building Things, Learning Every Day
 
 ---
 
-# 🚀 About Me
+# About Me
 
 I'm a software developer from Rwanda who enjoys turning ideas into real products.
 
@@ -26,7 +26,7 @@ Outside of coding, I enjoy learning new technologies, contributing to meaningful
 
 ---
 
-# 💻 What I Work With
+# What I Work With
 
 ### 🌐 Frontend
 
@@ -64,21 +64,13 @@ Outside of coding, I enjoy learning new technologies, contributing to meaningful
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 ## 🏦 Smart SACCO System
 
 A digital banking platform that helps SACCOs manage members, savings, loans, repayments, and financial operations.
 
 **Tech:** Node.js • PostgreSQL • React
-
----
-
-## 🎓 sVault
-
-A digital school wallet that enables parents to pay school fees securely while giving schools a modern financial management dashboard.
-
-**Tech:** Node.js • Express • PostgreSQL • React Native
 
 ---
 
@@ -98,7 +90,7 @@ A cross-platform mobile application for organizing family activities, events, re
 
 ---
 
-# 🌱 Currently Learning
+# Currently Learning
 
 - Artificial Intelligence
 - Multi-Agent Systems
@@ -109,7 +101,7 @@ A cross-platform mobile application for organizing family activities, events, re
 
 ---
 
-# 🎯 My Goals
+# My Goals
 
 - Build products that create real impact.
 - Become an exceptional backend engineer.
@@ -119,7 +111,7 @@ A cross-platform mobile application for organizing family activities, events, re
 
 ---
 
-# 📈 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Edouard144&show_icons=true&count_private=true" height="170">
