@@ -1,101 +1,161 @@
-<div align="left">
+<div align="center">
 
-# TUYUBAHE Edouard 
-### Fullstack Developer | Backend & Mobile Systems
+# 👋 Hi, I'm Edouard
 
-Building scalable applications with real-world impact in fintech, real estate, and digital platforms.
+### Just a Friendly Software Developer Who Loves Building Things, Learning Every Day, and Meeting Amazing People.
+
+🇷🇼 Kigali, Rwanda
+
+[Portfolio](https://edouard-chv.onrender.com/) •
+[LinkedIn](https://www.linkedin.com/in/tuyubahe-edouard-54376a34a) •
+[LeetCode](https://leetcode.com/u/silent_exit/) •
+[Email](mailto:edouardtuyubahe@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I am a Fullstack Developer from Rwanda focused on building **scalable, production-ready applications**.
+I'm a software developer from Rwanda who enjoys turning ideas into real products.
 
-- Strong in **backend systems (Node.js, Express, Django, PostgreSQL)**
-- Experienced in **frontend & mobile (React, Next.js, React Native)**
-- Passionate about **fintech, system design, and real-world problem solving**
+Most of my time is spent building backend systems, designing APIs, creating mobile applications, and exploring Artificial Intelligence. I believe software should solve real problems, be easy to maintain, and provide a great experience for the people using it.
+
+Outside of coding, I enjoy learning new technologies, contributing to meaningful projects, and connecting with developers from around the world.
+
+> **"Every project teaches me something new, and that's what keeps me building."**
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 What I Work With
 
-**Frontend**
-- React.js, Next.js
+### 🌐 Frontend
+
+- React
+- Next.js
+- Tailwind CSS
+- Bootstrap
+
+### 📱 Mobile
+
 - React Native
 - Swift
-- Tailwind CSS, Bootstrap
 
-**Backend**
-- Node.js, Express.js
+### ⚙️ Backend
+
+- Node.js
+- Express.js
 - Django
-- Springboot
+- Spring Boot
 - REST APIs
 
-**Database**
-- PostgreSQL, MongoDB, MySQL, Redis
+### 🗄️ Databases
 
-**Tools**
-- Docker, Git
+- PostgreSQL
+- MongoDB
+- MySQL
+- Redis
 
----
+### 🛠 Tools
 
-## 💼 Featured Projects
-
-### 🔹 Smart SACCO System
-Digital platform for managing savings, loans, and member accounts.
-
-- Authentication & user roles
-- Loan management system
-- Financial tracking dashboard
+- Git & GitHub
+- Docker
+- Postman
+- Linux
 
 ---
 
-### 🔹 Family Management App
-Mobile app for organizing family activities and communication.
+# 🚀 Featured Projects
 
-- Task & event management
-- Real-time updates
-- Clean mobile UI (React Native)
+## 🏦 Smart SACCO System
 
----
+A digital banking platform that helps SACCOs manage members, savings, loans, repayments, and financial operations.
 
-### 🔹 UmurageTrust (Real Estate Platform)
-Platform connecting property buyers and sellers in Rwanda.
-
-- Property listing system
-- Search & filtering
-- Scalable backend architecture
+**Tech:** Node.js • PostgreSQL • React
 
 ---
 
-## 📈 GitHub Stats
+## 🎓 sVault
+
+A digital school wallet that enables parents to pay school fees securely while giving schools a modern financial management dashboard.
+
+**Tech:** Node.js • Express • PostgreSQL • React Native
+
+---
+
+## 🏠 UmurageTrust
+
+A modern real estate platform connecting property owners, buyers, landlords, and tenants across Rwanda.
+
+**Tech:** React • Node.js • PostgreSQL
+
+---
+
+## 👨‍👩‍👧 Family Management App
+
+A cross-platform mobile application for organizing family activities, events, reminders, and communication.
+
+**Tech:** React Native • Express.js
+
+---
+
+# 🌱 Currently Learning
+
+- Artificial Intelligence
+- Multi-Agent Systems
+- System Design
+- Cloud Computing
+- DevOps
+- Distributed Systems
+
+---
+
+# 🎯 My Goals
+
+- Build products that create real impact.
+- Become an exceptional backend engineer.
+- Contribute to open-source software.
+- Collaborate with developers around the world.
+- Keep learning something new every day.
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edouard144" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edouard144&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=Edouard144&show_icons=true&count_private=true" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edouard144&layout=compact" height="170">
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Edouard144">
 </p>
 
 ---
 
-## 🧠 What I Focus On
+# 🤝 Let's Connect
 
-- Building **real-world systems**, not just demos  
-- Writing **clean, maintainable code**  
-- Designing **scalable architectures**  
-- Delivering **working products**, not just ideas  
+If you're building something exciting, looking for someone to collaborate with, or simply want to say hello...
+
+I'd love to hear from you.
+
+📧 **Email:** edouardtuyubahe@gmail.com
+
+🌐 **Portfolio:** https://edouard-chv.onrender.com/
+
+💼 **LinkedIn:** https://www.linkedin.com/in/tuyubahe-edouard-54376a34a
+
+💻 **LeetCode:** https://leetcode.com/u/silent_exit/
+
+📱 **WhatsApp:** https://wa.me/+250791980789
 
 ---
 
-## 📬 Contact
+<div align="center">
 
-- Email: edouardtuyubahe@gmail.com  
-- Website Portfolio: https://edouard-chv.onrender.com
-- LinkedIn: https://www.linkedin.com/in/tuyubahe-edouard-54376a34a
+### Thanks for stopping by! 😊
 
----
+*"Keep building. Keep learning. Keep growing."*
 
-## ⚡ Current Goal
-
-Building impactful systems and collaborating on projects that solve **real problems in Africa and beyond**.
+</div>
