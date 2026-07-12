@@ -1,6 +1,6 @@
 # Hi, I'm Edouard
 
-Just a Friendly Software Developer Who Loves Building Things, Learning Every Day, and Meeting Amazing People.
+Just a Friendly Software Developer Who Loves Building Things, Learning Every Day, and Connecting with Amazing People Around the World.
 <div align="center">
 
 🇷🇼 Kigali, Rwanda
