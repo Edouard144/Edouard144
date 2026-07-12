@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Edouard
-<div align="center">
+#Hi, I'm Edouard
 
 ### Just a Friendly Software Developer Who Loves Building Things, Learning Every Day, and Meeting Amazing People.
+<div align="center">
 
 🇷🇼 Kigali, Rwanda
 
