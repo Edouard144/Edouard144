@@ -6,7 +6,7 @@ Just a Friendly Software Developer Who Loves Building Things, Learning Every Day
 🇷🇼 Kigali, Rwanda
 
 [Portfolio](https://edouard-chv.onrender.com/) •
-[LinkedIn](https://www.linkedin.com/in/tuyubahe-edouard-54376a34a) •
+[LinkedIn](https://www.linkedin.com/in/edouard144) •
 [LeetCode](https://leetcode.com/u/silent_exit/) •
 [Email](mailto:edouardtuyubahe@gmail.com)
 
