@@ -108,15 +108,6 @@ My primary areas of interest include backend engineering, artificial intelligenc
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edouard144">
 </p>
 
----
-
-## Contact
-
-📧 **Email:** [edouardtuyubahe@gmail.com](mailto:edouardtuyubahe@gmail.com)
-🌐 **Portfolio:** https://edouard-chv.onrender.com/
-💼 **LinkedIn:** https://www.linkedin.com/in/tuyubahe-edouard-54376a34a
-💻 **LeetCode:** https://leetcode.com/u/silent_exit/
-
 <div align="center">
 
 **Building reliable software and AI-powered solutions.**
